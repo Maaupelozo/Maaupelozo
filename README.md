@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mauricio Pelozo</h1>
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif](https://pin.it/1cS9jXQ6G)">
+<img align="right" alt="Coding" width="400" src="[[https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif](https://pin.it/1cS9jXQ6G)](https://i.pinimg.com/1200x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)">
 
 <p align="left"> Mauricio Pelozo </p>
 
