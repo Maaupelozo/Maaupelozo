@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from Argentina.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-<p align="left"> <img src="[[[https://komarev.com/ghpvc/?username=sofiarocher&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)](https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)](https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)" alt="Mauricio Pelozo" /> </p>
+<p align="left"> <img src="[[[[https://komarev.com/ghpvc/?username=sofiarocher&label=Profile%20views&color=0e75b6&style=flat](https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)](https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)](https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg)](https://pin.it/1cS9jXQ6G)" alt="Mauricio Pelozo" /> </p>
 
 - 🔭 I am currently engaged in freelance work.
 
