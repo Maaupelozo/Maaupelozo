@@ -8,11 +8,11 @@
 <p align="left">👨‍💻 Mauricio Pelozo</p>
 
 - 🔭 I am currently engaged in **freelance work**  
-- 🌱 I’m currently improving my **Frontend Tech Stack**  
+- 🌱 Improving my **Frontend Tech Stack**  
 - 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/mauricio-pelozo-71337528b/)  
 - 💬 Ask me about **freelancing, how to start, everything you want**  
 - 📫 How to reach me: **Mauripelozo27@gmail.com**  
-- ⚡ Fun fact: **I love helping other devs — that’s why I create content.**
+
 
 ---
 
