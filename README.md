@@ -11,7 +11,7 @@
 - 🌱 Improving my **Frontend Tech Stack**  
 - 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/mauricio-pelozo-71337528b/)  
 - 💬 Ask me about **freelancing, how to start, everything you want**  
-- 📫 How to reach me: **muripeloo00@gmail.com**  
+- 📫 How to reach me: **muripelozo00@gmail.com**  
 
 
 ---
