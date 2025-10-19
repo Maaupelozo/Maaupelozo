@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Languages and Toolss
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
